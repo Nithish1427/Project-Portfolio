@@ -1,0 +1,18 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: rgba(31, 46, 68, 0.8) ;
+}
+
+.banner {
+    background-image: url(/Images/code-in-dark-aesthetic-144ld4j7cw2hmlqp.jpg);
+    padding: 200px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.skills-padding {
+    padding: 80px 0;
+}
